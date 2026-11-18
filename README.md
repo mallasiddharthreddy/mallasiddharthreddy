@@ -7,7 +7,7 @@ In the brain, new learning can interfere with old memories, and the brain has wa
 I also work in the other direction: using AI to understand the brain itself.
 
 **Currently**
-- Working with authors of [AI Engram](https://arxiv.org/abs/2606.14997) (ICML 2026 Oral) on how erasing one fact changes the stored traces of other facts in LLMs. Follow-up study targeting ICML 2027.
+- Working with Dr. Jea Kwon (MPI-SP), first author of [AI Engram](https://arxiv.org/abs/2606.14997) (ICML 2026 Oral), on the side effects of knowledge editing in LLMs, with a study targeting ICML 2027.
 - One paper on detecting Alzheimer’s disease from EEG brain signals under review at IEEE ESCI 2027; a second in preparation.
 
 **Earlier**
