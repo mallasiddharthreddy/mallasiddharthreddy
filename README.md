@@ -8,7 +8,7 @@ I also work in the other direction: using AI to understand the brain itself.
 
 **Currently**
 - Working with Dr. Jea Kwon (MPI-SP), first author of [AI Engram](https://arxiv.org/abs/2606.14997) (ICML 2026 Oral), on the side effects of knowledge editing in LLMs, with a study targeting ICML 2027.
-- One paper on detecting Alzheimer’s disease from EEG brain signals under review at IEEE ESCI 2027; a second in preparation.
+- EpochSpec, a lightweight, leakage-free EEG method for detecting Alzheimer's disease and frontotemporal dementia, is under review at IEEE ESCI 2027. Code will be released after the review. A second EEG paper is in preparation.
 
 **Earlier**
 - **GSoC 2026 @ DBpedia:** agentic question answering over the DBpedia knowledge graph · [merged PR](https://github.com/dbpedia/agentic-kgqa/pull/1) · [weekly blog + final report](https://mallasiddharthreddy.github.io/blogs/gsoc-26/final-report.html)
