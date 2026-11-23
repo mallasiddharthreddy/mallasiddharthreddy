@@ -14,6 +14,6 @@ I also work in the other direction: using AI to understand the brain itself.
 - **GSoC 2026 @ DBpedia:** agentic question answering over the DBpedia knowledge graph · [merged PR](https://github.com/dbpedia/agentic-kgqa/pull/1) · [weekly blog + final report](https://mallasiddharthreddy.github.io/blogs/gsoc-26/final-report.html)
 - **Fission Labs:** LLM inference benchmarking on GB200/H200/A100, and multi-agent systems on AWS Bedrock
 
-**Interests:** interpretability · continual learning · memory in LLMs and agents · NeuroAI · medical AI
+Interests: interpretability · continual learning · memory in LLMs and agents · LLM inference systems · NeuroAI · medical AI
 
 📫 mllsiddharth@gmail.com
